@@ -1,6 +1,9 @@
 # React Project 1
 
 
+Example of the "My Travel Journey" website made with React:
+
+
 ![react-project](https://user-images.githubusercontent.com/30963105/217350144-284511a6-2a92-44b7-b12f-989ed8b3ae6c.png)
 
 
